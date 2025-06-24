@@ -1,0 +1,4 @@
+24::2025	22:34:17	9015ba8e-6763-4e12-9813-846a56de21c1	GET	undefined	/index.html
+
+24::2025	22:34:17	4c3f6cda-84f3-49d7-bcf9-3ebf68a7e16d	GET	undefined	/css/style.css
+
