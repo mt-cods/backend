@@ -2,3 +2,313 @@
 
 24::2025	22:34:17	4c3f6cda-84f3-49d7-bcf9-3ebf68a7e16d	GET	undefined	/css/style.css
 
+25::2025	14:01:34	78f9e1be-4ed3-495f-935f-97981edd4e85	GET	undefined	/subdir/
+
+25::2025	14:01:34	2d6641d6-be8f-4bbf-89c0-79b5073eb728	GET	undefined	/favicon.ico
+
+25::2025	14:01:39	b1b44fde-bfdf-4d17-9111-00679a9aac27	GET	undefined	/subdir/
+
+25::2025	14:01:51	be1bc451-43b5-4db2-95fc-739d727c5156	GET	undefined	/subdir/index
+
+25::2025	14:02:33	4d69c78e-b634-4533-b6ec-f9ee03e7d38f	GET	undefined	/subdir/test
+
+25::2025	14:02:43	5a5f30b2-9b2a-4d94-892d-852a28ddd30a	GET	undefined	/subdir/test.html
+
+25::2025	14:02:50	fe118ea7-09d7-456b-a3dc-8c1aafeef543	GET	undefined	/subdir/index.html25::2025	14:05:06	91c242fa-979a-4288-bfa2-ba5b14553e59	GET	undefined	/subdir/index
+
+25::2025	14:05:07	600d80d3-0bb9-4edb-aea9-7a5c3fd82c89	GET	undefined	/subdir/index
+
+25::2025	14:05:07	231c2329-7035-4537-92d5-c817c8c9a6d5	GET	undefined	/subdir/index
+
+25::2025	14:05:08	21143f65-0630-495f-952d-1086b239c5f9	GET	undefined	/subdir/index
+
+25::2025	14:05:08	abea23d8-ea1c-4ea5-841d-f96ab1bc1f10	GET	undefined	/subdir/index
+
+25::2025	14:05:08	56f6371a-ff07-46e9-b639-e9526d08e711	GET	undefined	/subdir/index
+
+25::2025	14:05:36	1e84b4e5-75c4-46b5-8c6a-2021c940174d	GET	undefined	/subdir/
+
+25::2025	14:05:48	ab68d409-d16c-4fe6-9807-dd55b3c5a396	GET	undefined	/subdir/index
+
+25::2025	14:07:18	a7583019-b8f0-4fee-b5f8-bbc712ee3dd1	GET	undefined	/subdir/index
+
+25::2025	14:07:19	46d0b689-c27a-4dd7-96fb-7b6229307965	GET	undefined	/subdir/index
+
+25::2025	14:07:19	c152d1da-77e3-4936-9f00-30d0c755d480	GET	undefined	/subdir/index
+
+25::2025	14:07:19	6119e63d-26ad-49b7-a1ee-bd431f157d74	GET	undefined	/subdir/index
+
+25::2025	14:07:20	b04920eb-42d6-48ae-811e-dcfa7271aef7	GET	undefined	/subdir/index
+
+25::2025	14:07:20	03375b68-8ef8-48dc-85f2-a1352cd988ac	GET	undefined	/subdir/index
+
+25::2025	14:07:20	a45e2d93-2fe3-426c-8d6c-6f9fe2cb5898	GET	undefined	/subdir/index
+
+25::2025	14:07:20	6afa2aeb-7382-4023-bab6-dad71cb4bb88	GET	undefined	/subdir/index
+
+25::2025	14:07:21	69fa15ef-32a6-493c-b818-2022d25ac1b0	GET	undefined	/subdir/index
+
+25::2025	14:07:21	919b8289-c699-4569-95a4-487e6ae85600	GET	undefined	/subdir/index
+
+25::2025	14:07:21	2a971445-63d3-4310-b07b-43014d6cd3ca	GET	undefined	/subdir/index
+
+25::2025	14:07:26	ab3e9a6e-6514-4cb8-83db-053e60537642	GET	undefined	/subdir/index/
+
+25::2025	14:07:29	9c991011-6f37-401c-95bb-9defb6a42b7e	GET	undefined	/subdir/
+
+25::2025	14:09:01	d5d0ca5e-44ae-4d1d-acda-67d21bb79435	GET	undefined	/subdir/index.html
+
+25::2025	14:09:14	e6813407-0cc6-46e3-845b-af072baa2ec9	GET	undefined	/subdir/index.html
+
+25::2025	14:09:35	6ff10eec-68ea-45bf-9491-a58f5f625865	GET	undefined	/subdir/index.html
+
+25::2025	14:09:36	2750b764-8ca4-4f8a-9a20-4ac8f6d75d9c	GET	undefined	/subdir/index.html
+
+25::2025	14:09:39	4c0a1ca2-cb8b-4d25-8e0a-f409ea6e18ef	GET	undefined	/subdir/index.html
+
+25::2025	14:09:41	0f81ab34-457d-4d35-9fca-296dc64efad0	GET	undefined	/subdir/index.html
+
+25::2025	14:09:43	3389cfc8-414c-4f59-a7ee-7cb7ef324ec4	GET	undefined	/subdir/index.html
+
+25::2025	14:09:45	e026118a-3823-4524-8666-5847d367731f	GET	undefined	/subdir/index.html
+
+25::2025	14:09:45	33b7aa64-23ef-4302-ad1e-f2b9bc93ec6c	GET	undefined	/subdir/index.html
+
+25::2025	14:09:52	dd4cc3a4-60e4-478b-8669-cd5f54c46593	GET	undefined	/subdir/index.html
+
+25::2025	14:09:52	ee2950ea-7455-4d2f-a64b-1ce23ba73819	GET	undefined	/subdir/index.html
+
+25::2025	14:11:35	d9b4440d-383b-479a-a5cc-38cc016ba19a	GET	undefined	/subdir/index.html
+
+25::2025	14:11:36	04def61b-692b-453b-8799-d774aef42834	GET	undefined	/subdir/index.html
+
+25::2025	14:11:36	01407de1-0640-41ec-b4b8-ef0bf1eeb7a0	GET	undefined	/subdir/index.html
+
+25::2025	14:11:37	2310869a-fe99-4c92-8788-ad4049019434	GET	undefined	/subdir/index.html
+
+25::2025	14:11:37	324f03be-fe27-44b5-9366-dec4e3ebf971	GET	undefined	/subdir/index.html
+
+25::2025	14:11:37	642185a6-df96-4a75-b2ae-ddd68dac4760	GET	undefined	/subdir/index.html
+
+25::2025	14:11:37	b933be0a-91b0-4c4f-8ee4-f54199271ea4	GET	undefined	/subdir/index.html
+
+25::2025	14:11:39	e8f6bcd8-990d-4e24-b177-d661dd7db2dd	GET	undefined	/subdir/index.html
+
+25::2025	14:11:39	f3404a73-f4c2-4d2d-8ea7-368f813f6b3d	GET	undefined	/subdir/index.html
+
+25::2025	14:11:42	3f824283-2318-461c-bb00-47de8c795943	GET	undefined	/subdir/index.html
+
+25::2025	14:11:43	c9ab2f05-2810-4766-a1e5-86375de67ef8	GET	undefined	/subdir/index.html
+
+25::2025	14:11:43	8c274371-1368-43f6-9667-d549719c62db	GET	undefined	/subdir/index.html
+
+25::2025	14:11:43	3cc1e8ca-ccd4-4fe6-a611-d074891bf090	GET	undefined	/subdir/index.html
+
+25::2025	14:11:43	769f864d-0091-499e-b459-4c00ba828fe7	GET	undefined	/subdir/index.html
+
+25::2025	14:11:44	e1ac9b32-58b9-42f0-8539-f2a6ef6f6b15	GET	undefined	/subdir/index.html
+
+25::2025	14:11:44	e50bda58-821a-4689-9b1e-82b73fd73306	GET	undefined	/subdir/index.html
+
+25::2025	14:11:45	84d39796-e123-465d-ba9a-90690c21fed3	GET	undefined	/subdir/index.html
+
+25::2025	14:11:45	180b019f-0543-492d-baba-9e2eebd162fe	GET	undefined	/subdir/index.html
+
+25::2025	14:14:29	2b0a0a0b-ab2c-4742-8ac1-745482c20701	GET	undefined	/subdir/index.html
+
+25::2025	14:14:32	62ed7ba2-c1eb-4635-a53e-5d20c9f3ed4d	GET	undefined	/subdir/index
+
+25::2025	14:14:33	f8b32838-46c1-4210-bb9b-722aa9044bde	GET	undefined	/subdir/index
+
+25::2025	14:14:34	5ade1069-c14f-4a9d-829f-65ef1a37b002	GET	undefined	/subdir/index
+
+25::2025	14:14:34	c9f0f372-965c-4114-9407-d7a29baedfb5	GET	undefined	/subdir/index
+
+25::2025	14:14:36	b50ac52d-72b4-461f-9020-8fb95c22a068	GET	undefined	/subdir/
+
+25::2025	14:15:07	abbffc23-6eb2-4fe6-91f6-27d2b40e4228	GET	undefined	/subdir/index
+
+25::2025	14:15:07	e19ae34f-e37f-4495-a610-6f80dea76b36	GET	undefined	/subdir/index
+
+25::2025	14:15:07	6c6b81cf-ee40-4ff3-b66b-88f8186bf8a1	GET	undefined	/subdir/index
+
+25::2025	14:15:08	e1438cee-cf31-4f98-a5f8-ed61915773f2	GET	undefined	/subdir/index
+
+25::2025	14:16:35	bc37e3b0-d977-4fda-ad31-1cb8ac574e6e	GET	undefined	/subdir/index
+
+25::2025	14:16:36	a2f87c92-45c1-42d3-a339-e509fd663fa4	GET	undefined	/subdir/index
+
+25::2025	14:16:36	e85c73e5-87f8-4191-9e20-5e1bf6cde4d3	GET	undefined	/subdir/index
+
+25::2025	14:16:36	92fe404e-8867-4782-938c-51afa0c52bb2	GET	undefined	/subdir/index
+
+25::2025	14:16:36	8e20d890-06c4-44ab-a41c-2fa7c004e3b4	GET	undefined	/subdir/index
+
+25::2025	14:16:37	122e8d30-a08e-4970-a9ac-693328076297	GET	undefined	/subdir/index
+
+25::2025	14:16:37	e26e3e24-ec62-45e7-ba01-60cec1fb8c43	GET	undefined	/subdir/index
+
+25::2025	14:16:37	a05a2325-1d52-4088-9cf2-48e244406f35	GET	undefined	/subdir/index
+
+25::2025	14:16:46	a2a32824-345c-415c-9974-24c1ce4aa811	GET	undefined	/subdir/index
+
+25::2025	14:16:47	28538b6c-3c9d-4755-852e-e261375f2f25	GET	undefined	/subdir/index
+
+25::2025	14:16:47	bbad9287-5a63-47ae-b0b2-6f8bfdd40edc	GET	undefined	/subdir/index
+
+25::2025	14:16:47	9dce71c8-281a-450f-b2bf-d83d6c53c2c7	GET	undefined	/subdir/index
+
+25::2025	14:16:47	62e7a2e3-34e3-4b4e-9394-91264e15f2b2	GET	undefined	/subdir/index
+
+25::2025	14:19:08	54b15c00-de2a-4b6c-b081-c7b2bfd1a2ed	GET	undefined	/subdir/index
+
+25::2025	14:19:08	aa304e37-3a4a-4c40-af45-d860dfb31817	GET	undefined	/subdir/index
+
+25::2025	14:19:08	3c1e9207-dadf-4d93-83d0-be1264320286	GET	undefined	/subdir/index
+
+25::2025	14:19:09	39ff573a-eacb-4bb0-a3d5-ea5c83c0a66d	GET	undefined	/subdir/index
+
+25::2025	14:19:09	7ac801e7-74b6-4991-926b-5f2772ad83cc	GET	undefined	/subdir/index
+
+25::2025	14:19:09	fe52048a-c0e2-4835-b20b-aa7718968cb1	GET	undefined	/subdir/index
+
+25::2025	14:19:09	f16a9aa4-10ae-4218-8be0-c3e449262783	GET	undefined	/subdir/index
+
+25::2025	14:19:09	a0cd52f1-43ac-49ff-8ea3-5b756778c0c6	GET	undefined	/subdir/index
+
+25::2025	14:19:10	76b28ed2-5f5f-4b1e-9c53-24eccf7f0638	GET	undefined	/subdir/index
+
+25::2025	14:19:10	9a335631-3b06-4118-87ac-57460757d274	GET	undefined	/subdir/index
+
+25::2025	14:19:10	87206775-9316-4e02-9767-bea0bdade9d1	GET	undefined	/subdir/index
+
+25::2025	14:19:11	fc75f621-c151-4d7f-9e3a-251483a3fb59	GET	undefined	/subdir/index
+
+25::2025	14:19:11	f8226c4d-a4bc-4364-8b6a-77f3638537c5	GET	undefined	/subdir/index
+
+25::2025	14:19:11	ccbb77f2-1e48-4d94-95db-06d694fd4b46	GET	undefined	/subdir/index
+
+25::2025	14:19:11	d8ae68b0-0dda-4558-81f7-5d5a8b220687	GET	undefined	/subdir/index
+
+25::2025	14:19:11	a4c55d58-8872-4ff9-9dff-5690bd1285ff	GET	undefined	/subdir/index
+
+25::2025	14:19:11	cc1de071-7a2c-4325-ab14-1923a16eafd3	GET	undefined	/subdir/index
+
+25::2025	14:19:12	351ed5b4-9dea-4909-b976-c4c472418eac	GET	undefined	/subdir/index
+
+25::2025	14:19:12	25fce6d0-29df-437a-936f-2e1815be5663	GET	undefined	/subdir/index
+
+25::2025	14:19:26	89e26f3c-7afe-4d58-b15e-7ad4b3e5710a	GET	undefined	/subdir/index
+
+25::2025	14:19:47	7f1d761b-ca4d-457d-abba-ad91703dd567	GET	undefined	/subdir/index
+
+25::2025	14:19:48	e5883394-0fb9-476a-b36d-3439fbf313b4	GET	undefined	/subdir/index
+
+25::2025	14:19:48	51efea1c-0ec3-40f8-9214-9211f124c88e	GET	undefined	/subdir/index
+
+25::2025	14:19:48	7b0fb4c3-5cc4-46ed-a807-d26880162b84	GET	undefined	/subdir/index
+
+25::2025	14:19:48	7e48b692-b560-426e-8bb4-eb3ef0ebbd8d	GET	undefined	/subdir/index
+
+25::2025	14:19:53	05be68ed-c46f-4541-b6c6-25899119cd94	GET	undefined	/subdir/index
+
+25::2025	14:19:53	f98a2e51-a00f-4efe-80c4-8b04d9cd2969	GET	undefined	/subdir/index
+
+25::2025	14:19:53	231722fa-2622-4996-8af3-92ff8a1289f7	GET	undefined	/subdir/index
+
+25::2025	14:19:54	54fbf459-0140-45b6-bcbe-a9d5c08409e9	GET	undefined	/subdir/index
+
+25::2025	14:19:57	15b33883-1ca6-479f-9131-d1b472b3b11d	GET	undefined	/subdir/index
+
+25::2025	14:19:57	b9edb219-3d86-4cd5-9d56-ef9925ac1644	GET	undefined	/subdir/index
+
+25::2025	14:19:57	8dcbbc8a-e5b4-45ce-8dda-51a233da86b3	GET	undefined	/subdir/index
+
+25::2025	14:20:11	4266c9fa-9951-48ed-ac54-9412fc902d26	GET	undefined	/subdir/index
+
+25::2025	14:20:11	6de23dce-d53d-4988-a0a6-b2a86f44cc52	GET	undefined	/subdir/index
+
+25::2025	14:20:11	9c09bb4d-deda-4408-83da-af160f7cf523	GET	undefined	/subdir/index
+
+25::2025	14:20:12	497a36cf-bc74-4001-8a82-d84a836df437	GET	undefined	/subdir/index
+
+25::2025	14:20:12	73ec578e-5f99-4b3c-b53a-1331740da8a9	GET	undefined	/subdir/index
+
+25::2025	14:20:13	c30091c8-f997-4a97-99a8-563c2eac3ab3	GET	undefined	/subdir/index
+
+25::2025	14:22:39	0e47e8a3-3f4a-4ca5-a14f-53fb4609b590	GET	undefined	/api/employee
+
+25::2025	14:23:17	90b84df8-83ef-466b-ad40-c0a3d4a8ecc2	PUT	undefined	/api/employee
+
+25::2025	14:23:22	6295785d-3bef-4742-8380-1629e6348b2a	GET	undefined	/api/employee
+
+25::2025	14:23:32	5ab644d7-a464-41b5-9327-d1d6f78abb4c	GET	undefined	/api/employee
+
+25::2025	14:24:02	7005e2f8-8f9e-481b-961a-606189c6cf3e	GET	undefined	/api/employee
+
+25::2025	14:25:24	9423fb37-513d-4f39-9000-862b1eedf18f	POST	undefined	/api/employee
+
+25::2025	14:25:28	d69245f2-610a-4215-841e-2188f7944647	GET	undefined	/api/employee
+
+25::2025	14:26:00	c7b1e964-86ef-4751-9269-38c6a3e86c9e	GET	undefined	/api/employee/1
+
+25::2025	16:33:24	cbc89453-0875-496b-880d-5f81591ff8f7	GET	undefined	/api/employee
+
+25::2025	16:34:10	16e1e693-d2ba-430c-91f8-89c59cba1d43	GET	undefined	/register
+
+25::2025	16:34:51	a4e05fcb-0276-47e6-b04e-642789810721	POST	undefined	/register
+
+25::2025	16:35:21	e245893b-aafc-4872-854b-c1dc66519814	POST	undefined	/register
+
+25::2025	16:36:10	a9d4e058-fc22-4066-a9e2-ef049fd52062	POST	undefined	/register
+
+25::2025	16:36:23	01456ad3-e932-43e4-b808-0e3627709c31	POST	undefined	/register
+
+25::2025	16:38:56	859bd55c-f758-414b-a20c-6ca60dc160e1	POST	undefined	/auth
+
+25::2025	16:39:15	b2ee696c-81b5-4ca9-9fec-48c26d12062b	POST	undefined	/auth
+
+25::2025	16:39:38	8646a359-ce0f-435e-b661-1b79589ba6f6	PUT	undefined	/api/employee
+
+25::2025	16:39:52	eef47d85-cdd5-4c2e-a889-807eae5529f9	PUT	undefined	/api/employee
+
+25::2025	16:41:17	8ce70238-a17f-4be0-abb9-f9f3def65509	GET	undefined	/api/employee
+
+25::2025	16:41:28	129cb831-bb32-497f-8acd-d2772c7c9c32	GET	undefined	/api/employee
+
+25::2025	16:41:32	2f34badb-7895-437d-b982-7cc539279203	GET	undefined	/api/employee
+
+25::2025	16:42:00	0eeaa119-cc51-41cd-a439-55cc9477932b	POST	undefined	/auth
+
+25::2025	16:42:07	7e3171fb-0d66-4020-b4d9-cb94c5a16ac6	GET	undefined	/api/employee
+
+25::2025	16:42:17	2edd61c3-aac3-4304-9490-ee230dbc3aed	GET	undefined	/api/employee/1
+
+25::2025	16:42:22	13fab580-b975-4e8d-ae7b-7ac4ab4846ad	GET	undefined	/api/employee
+
+25::2025	16:42:35	6439c9ae-d86a-4180-9068-d146e7b3b259	GET	undefined	/api/employee/1
+
+25::2025	16:43:00	1698f5a7-bd97-4687-96bd-79a459e51064	GET	undefined	/api/employee/1
+
+25::2025	16:44:40	7f25d0d6-abaf-431f-8f2d-094b63176ef5	POST	undefined	/auth
+
+25::2025	16:44:54	52d5cc9d-e24e-411f-b0e8-fc38280f3af1	GET	undefined	/api/employee/1
+
+25::2025	16:45:04	788a821c-c1b2-4dae-8953-2868058e5745	PUT	undefined	/api/employee
+
+25::2025	16:45:12	a3e61f93-997c-4402-9e1b-7bc8b05183eb	PUT	undefined	/api/employee/1
+
+25::2025	16:46:05	fc775a9d-5805-4833-a74f-9be833ebd76f	PUT	undefined	/api/employee
+
+25::2025	16:46:18	31f83566-34c6-4743-bd48-596bb27987c5	PUT	undefined	/api/employee
+
+25::2025	16:46:25	7ca15e57-cc60-4b69-b0c5-2214e236e5d4	PUT	undefined	/api/employee
+
+25::2025	16:46:30	4c94460f-18f6-486f-a506-d9b4d065cb73	PUT	undefined	/api/employee
+
+25::2025	16:46:53	97fff57d-5dc3-4ffc-94a2-a9c341eda404	POST	undefined	/api/employee
+
+25::2025	16:48:37	72fac9be-e764-40de-8642-17cb4c824e99	GET	undefined	/refresh
+
+25::2025	16:48:52	9165d269-3d40-449b-bcb4-72ebe5379d02	POST	undefined	/api/employee
+
